@@ -1,0 +1,1 @@
+export const DS_FILE = './datastore/db.json';
